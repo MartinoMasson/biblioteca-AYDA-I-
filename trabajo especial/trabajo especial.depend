@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1688772180 source:c:\users\asus\desktop\facultad\2° año\analisis y diseño de algoritmo\c++\trabajo especial\main.cpp
+	"arbol.h"
+	"Lista.h"
+	"filas.h"
+	"libro.h"
+	<iostream>
+	<fstream>
+
+1687972345 c:\users\asus\desktop\facultad\2° año\analisis y diseño de algoritmo\c++\trabajo especial\include\lista.h
+
+1688771992 source:c:\users\asus\desktop\facultad\2° año\analisis y diseño de algoritmo\c++\trabajo especial\src\lista.cpp
+	<cassert>
+	<iostream>
+	"lista.h"
+	"libro.h"
+
+1687480111 source:c:\users\asus\desktop\facultad\2° año\analisis y diseño de algoritmo\c++\trabajo especial\src\filas.cpp
+	"filas.h"
+	"lista.h"
+	"cassert"
+
+1687366256 c:\users\asus\desktop\facultad\2° año\analisis y diseño de algoritmo\c++\trabajo especial\include\filas.h
+	"lista.h"
+
+1688684769 source:c:\users\asus\desktop\facultad\2° año\analisis y diseño de algoritmo\c++\trabajo especial\src\arbol.cpp
+	"arbol.h"
+	"lista.h"
+	"libro.h"
+	<cstddef>
+	<iostream>
+
+1688772749 c:\users\asus\desktop\facultad\2° año\analisis y diseño de algoritmo\c++\trabajo especial\include\arbol.h
+	"lista.h"
+	"libro.h"
+
+1688681227 source:c:\users\asus\desktop\facultad\2° año\analisis y diseño de algoritmo\c++\trabajo especial\src\libro.cpp
+	"lista.h"
+	"libro.h"
+	<iostream>
+	<fstream>
+
+1688678510 c:\users\asus\desktop\facultad\2° año\analisis y diseño de algoritmo\c++\trabajo especial\include\libro.h
+	"lista.h"
+	<iostream>
+	<fstream>
+

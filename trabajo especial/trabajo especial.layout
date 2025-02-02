@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="src\arbol.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3784" topLine="9" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="12" />
+			<Collapse line="16" />
+			<Collapse line="32" />
+			<Collapse line="40" />
+			<Collapse line="44" />
+			<Collapse line="60" />
+			<Collapse line="76" />
+			<Collapse line="82" />
+			<Collapse line="94" />
+			<Collapse line="100" />
+			<Collapse line="114" />
+			<Collapse line="119" />
+			<Collapse line="132" />
+			<Collapse line="137" />
+			<Collapse line="152" />
+			<Collapse line="165" />
+			<Collapse line="171" />
+		</Folding>
+	</File>
+	<File name="include\libro.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="757" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="include\filas.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\libro.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="603" topLine="9" />
+		</Cursor>
+		<Folding>
+			<Collapse line="7" />
+			<Collapse line="11" />
+			<Collapse line="20" />
+			<Collapse line="24" />
+			<Collapse line="28" />
+			<Collapse line="33" />
+			<Collapse line="37" />
+			<Collapse line="41" />
+			<Collapse line="45" />
+			<Collapse line="49" />
+			<Collapse line="53" />
+			<Collapse line="57" />
+			<Collapse line="68" />
+			<Collapse line="72" />
+			<Collapse line="76" />
+			<Collapse line="80" />
+			<Collapse line="84" />
+			<Collapse line="88" />
+			<Collapse line="92" />
+		</Folding>
+	</File>
+	<File name="include\lista.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="608" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\filas.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="837" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="7" />
+			<Collapse line="18" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3682" topLine="3" />
+		</Cursor>
+		<Folding>
+			<Collapse line="17" />
+			<Collapse line="26" />
+			<Collapse line="42" />
+			<Collapse line="90" />
+			<Collapse line="99" />
+			<Collapse line="112" />
+			<Collapse line="126" />
+			<Collapse line="144" />
+			<Collapse line="153" />
+		</Folding>
+	</File>
+	<File name="include\arbol.h" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="173" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="src\lista.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="186" topLine="12" />
+		</Cursor>
+		<Folding>
+			<Collapse line="12" />
+			<Collapse line="16" />
+			<Collapse line="26" />
+			<Collapse line="39" />
+			<Collapse line="60" />
+			<Collapse line="73" />
+			<Collapse line="85" />
+			<Collapse line="102" />
+			<Collapse line="110" />
+			<Collapse line="119" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
